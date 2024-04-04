@@ -1,0 +1,3 @@
+error.sh: line 1: Date: command not found
+error.sh: line 3: Time: command not found
+error.sh: line 4: USerdel: command not found

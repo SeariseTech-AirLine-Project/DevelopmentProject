@@ -1,0 +1,17 @@
+calvin
+               total        used        free      shared  buff/cache   available
+Mem:             753         281         387           6         199         472
+Swap:              0           0           0
+Sat Mar 23 10:54:56 AM EDT 2024
+/home/calvin/automations
+ls (1)               - list directory contents
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           377M     0  377M   0% /dev/shm
+tmpfs           151M  4.3M  147M   3% /run
+/dev/xvda4      9.2G  1.7G  7.6G  18% /
+/dev/xvda3      536M  161M  376M  31% /boot
+/dev/xvda2      200M  7.0M  193M   4% /boot/efi
+tmpfs            76M     0   76M   0% /run/user/1000
+0
+1793
